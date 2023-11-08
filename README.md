@@ -1,4 +1,4 @@
-A <a href="https://zipprr.com/category/lyft-clone/">Lyft clone script</a> is a ride-sharing platform solution that allows drivers to provide transportation services to passengers similar to Lyft. It connects drivers with passengers who need a ride through a mobile app.
+A <a href="https://zipprr.com/lyft-clone/">Lyft clone script</a> is a ride-sharing platform solution that allows drivers to provide transportation services to passengers similar to Lyft. It connects drivers with passengers who need a ride through a mobile app.
 
 <h2><b>Key Features</b></h2>
 
